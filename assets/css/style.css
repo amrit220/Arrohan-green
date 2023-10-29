@@ -1181,7 +1181,7 @@ section {
   border-bottom: 3px solid #5cb874;
   padding: 30px;
   background: #fff;
-  width: 100%;
+  width: 30%;
   box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12);
 }
 
@@ -1212,6 +1212,11 @@ section {
   margin-bottom: 20px;
   font-size: 14px;
   color: #555555;
+}
+.contact .map-container {
+  width: 70%; /* Set the width of the map-container to 70% */
+  float: left; /* Float the map-container to the left */
+  
 }
 
 .contact .info .social-links {
